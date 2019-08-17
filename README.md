@@ -2,10 +2,10 @@
 
 ## containers
 
-- prometheus
-- node-exporter
-- alertmanager
-- mailcatcher
+- prometheus (`http://localhost:9090`)
+- node-exporter (`http://localhost:9100`)
+- alertmanager (`http://localhost:9093`)
+- mailcatcher (`http://localhost:1080`)
 
 ## start
 
