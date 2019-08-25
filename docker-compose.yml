@@ -34,3 +34,7 @@ services:
       - "8001:8001"
     volumes:
       - ./httpserver:/app
+  grafana:
+    image: grafana/grafana:5.0.0
+    ports:
+      - "3000:3000"
